@@ -29,6 +29,12 @@ https://github.com/sanshao85/mcp-feedback-collector-web
 
 ## 🚀 快速开始
 
+### 0. 一键运行体验
+```bash
+python one_click_run.py
+```
+脚本会自动安装依赖并启动反馈收集器。
+
 ### 1. 安装uvx
 ```bash
 pip install uvx
